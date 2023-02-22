@@ -1,0 +1,14 @@
+.child {
+  &.child--color-success {
+    color: green;
+  }
+  &.child--color-info {
+    color: blue;
+  }
+  &.child--color-warning {
+    color: yellow;
+  }
+  &.child--color-danger {
+    color: red;
+  }
+}
